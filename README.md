@@ -59,7 +59,7 @@ php artisan serve
 ## 👥 Equipe de Desenvolvimento
 
 - [Carlos Moronari](https://github.com/EduMoronari)
-- Gabriel dos Santos
+- [Gabriel dos Santos](https://github.com/gabrielsantosnz)
 - [João Pedro Pardinho](https://github.com/jp-pardinho)
 - [Joaquim de Sá](https://github.com/JoaquimMHS)
 - [Nicolas Leal](https://github.com/Nikleal)
